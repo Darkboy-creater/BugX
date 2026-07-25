@@ -2,7 +2,10 @@
 
 cat > README.md << 'ENDOFFILE'
 # TermuxX Framework v3.0
-
+![Version](https://img.shields.io/badge/version-3.0.0-red)
+![Python](https://img.shields.io/badge/python-3.x-blue)
+![Platform](https://img.shields.io/badge/platform-Termux-green)
+![License](https://img.shields.io/badge/license-MIT-yellow)
 
 
 
@@ -38,13 +41,19 @@ cat > README.md << 'ENDOFFILE'
 - Python 3.x
 - Internet Connection
 
-### Quick Install
+
+
+
+
+
+
+
 
 ```bash
 pkg update -y && pkg upgrade -y
 pkg install git python python-pip -y
-git clone https://github.com/YOURUSERNAME/TermuxX.git
-cd TermuxX
+git clone https://github.com/Darkboy-creater/BugX.git
+cd BugX
 chmod +x install.sh
 ./install.sh
 python start.py
@@ -53,7 +62,12 @@ python start.py
 
 
 
-![Version](https://img.shields.io/badge/version-3.0.0-red)
-![Python](https://img.shields.io/badge/python-3.x-blue)
-![Platform](https://img.shields.io/badge/platform-Termux-green)
-![License](https://img.shields.io/badge/license-MIT-yellow)
+
+
+
+
+
+
+
+
+
